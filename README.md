@@ -46,7 +46,7 @@ Camera contains 5 images initially.
 
 ![camera delete all](doc/images/delete.png)
 
-First, check that the files in the camera.
+First, check the files in the camera.
 
 ```dart
 {
@@ -105,7 +105,7 @@ Request
     }
   };
 ```
-Running a delete all returns a satisfactory response.
+Running a delete all returns a 200 OK response.
 However, the images on the camera are still there. 
 
 ```
